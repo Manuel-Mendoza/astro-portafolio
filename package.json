@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "astro": "^5.5.4",
+    "daisyui": "^5.0.9",
     "react": "^19.0.0",
     "tailwind": "^4.0.0"
   },
